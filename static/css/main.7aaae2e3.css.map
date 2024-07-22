@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7aaae2e3.css","mappings":"AAAA,QACI,gBAAiB,CACjB,aACJ","sources":["components/footer/footer.css"],"sourcesContent":[".footer{\r\n    background: green;\r\n    padding: 100px;\r\n}"],"names":[],"sourceRoot":""}
